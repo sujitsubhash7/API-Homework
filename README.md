@@ -15,5 +15,4 @@ This homework imitates the working of a simple personal financial planner that c
 ## Future Works
 This financial planner will be improved to not only run more simulations but also analyze custom portfolios that account for periodic rebalancing and optimization based on Sharpe ratios. 
 
-#### Note
-Create .env file that contains your own "ALPACA_API_KEY" and "ALPACA_SECRET_KEY" to be able to use the financial planner.
+**Note: Create .env file that contains your own "ALPACA_API_KEY" and "ALPACA_SECRET_KEY" to be able to use the financial planner.
